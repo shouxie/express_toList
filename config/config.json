@@ -1,0 +1,16 @@
+{
+  "development": {
+    "host": "localhost",
+    "user": "root",
+    "password": "11111111",
+    "database": "tolist",
+    "dialect": "mysql"
+  },
+  "product": {
+    "host": "localhost",
+    "user": "root",
+    "password": "11111111",
+    "database": "tolist",
+    "dialect": "mysql"
+  }
+}
